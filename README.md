@@ -161,7 +161,7 @@ You can deploy this project using:
 - [ ] To get all greetings, send a GET request to the following URL:
 
 ```
-  https://hello-rails-back-end.herokuapp.com/api/v1/greetings.json
+  https://hellogreetings.onrender.com/api/v1/greetings.json
 ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

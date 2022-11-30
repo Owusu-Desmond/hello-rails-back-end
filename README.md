@@ -12,6 +12,7 @@
   - [Usage](#usage)
   - [Run tests](#run-tests)
   - [Deployment](#triangular_flag_on_post-deployment)
+  - [API Documentation](#api-documentation)
 - [👥 Authors](#authors)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
@@ -22,7 +23,7 @@
 
 # 📖 hello-rails-back-end <a name="about-project"></a>
 
-**hello-rails-back-end** is a simple rails and react app to get started with rails and react.
+**hello-rails-back-end** is a simple rails api that always returns a ramdom greetings message.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -155,12 +156,12 @@ You can deploy this project using:
 ```
 <!-- how to use the api -->
 
-###  API Documentation
+###  API Documentation  <a name="api-documentation"></a>
 
 - [ ] To get all greetings, send a GET request to the following URL:
 
 ```
-  https://hello-rails-back-end.herokuapp.com/api/v1/greetings
+  https://hello-rails-back-end.herokuapp.com/api/v1/greetings.json
 ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

@@ -9,4 +9,6 @@ Rails.application.routes.draw do
       resources :greetings, only: [:index]
     end
   end
+
+  root "root#index"
 end
